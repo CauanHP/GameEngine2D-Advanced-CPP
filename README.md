@@ -1,6 +1,24 @@
-# Game Engine 2D - Advanced C++ Graphics Engine
+# 🎮 GameEngine2D - Engine de Jogos 2D com OpenGL
 
-Uma engine de jogos 2D completa implementada em C++17, demonstrando técnicas avançadas de programação gráfica, arquitetura de sistemas e otimização de performance.
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL">
+  <img src="https://img.shields.io/badge/ECS-Architecture-9C27B0?style=for-the-badge" alt="ECS">
+  <img src="https://img.shields.io/badge/60-FPS-4CAF50?style=for-the-badge" alt="60 FPS">
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🚀 Engine de Jogos 2D de Alto Desempenho</h2>
+  <p><em>Implementação completa de uma engine de jogos 2D em C++17 com pipeline de renderização moderno, sistema de shaders e arquitetura ECS</em></p>
+</div>
+
+---
+
+## 🎯 Visão Geral
+
+O **GameEngine2D** é uma engine de jogos 2D desenvolvida do zero, demonstrando conceitos avançados de programação gráfica, arquitetura de sistemas e otimização de performance. Este projeto representa uma implementação completa de uma engine moderna, com foco em flexibilidade, performance e facilidade de uso.
 
 ## 🚀 Características Principais
 
